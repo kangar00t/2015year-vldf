@@ -1,0 +1,3 @@
+<?= $model->showTitle();?>
+
+<?= $echo; ?>
